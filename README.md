@@ -10,7 +10,7 @@ This calculator program allows users to perform addition, subtraction, multiplic
 
 1. Make sure you have Python installed on your system.
 2. Clone this repository or download the source code.
-3. Install the required dependencies by running the following command:
+3. Install the required dependencies by running the following command.
 4. Run the calculator program by executing the following command:
 ```
 python calculator.py
