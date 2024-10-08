@@ -1,27 +1,6 @@
-# Calculator Program
+# Calculator
 
-A basic calculator program built using Python and Tkinter.
-
-## Description
-
-This calculator program allows users to perform addition, subtraction, multiplication, and division operations. It supports decimal numbers and provides a user-friendly interface with buttons for numbers 0-9 and common mathematical operators.
-
-## Installation
-
-1. Make sure you have Python installed on your system.
-2. Clone this repository or download the source code.
-3. Install the required dependencies by running the following command.
-4. Run the calculator program by executing the following command:
-```
-python calculator.py
-```
-## Usage
-
-1. Click on the number buttons (0-9) to input numbers into the calculator.
-2. Click on the operator buttons (+, -, *, /) to perform corresponding operations.
-3. To calculate the result, click on the = button.
-4. The result will be displayed in the calculator's interface.
-5. To clear the input and start a new calculation, click on the clear button.
+A basic calculator program built using Python
 
 ## Screenshots
 
